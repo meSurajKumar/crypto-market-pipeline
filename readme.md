@@ -70,7 +70,11 @@ For Ubantu and Linux :-
 
 ## Create Kafka topic
 ```
-bin/kafka-topics.sh --create --topic quotes.crypto --bootstrap-server localhost:9092 --partitions 1 --replication-factor 1
+ .\bin\windows\kafka-topics.bat --create --topic quotes.crypto --bootstrap-server localhost:9092 --partitions 1 --replication-factor 1
+
+To Check the Topic list 
+ .\bin\windows\kafka-topics.bat --list --bootstrap-server localhost:9092
+
 ```
 
 ## Configure Environment Variables (Optional)
