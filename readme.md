@@ -97,7 +97,7 @@ node server.js
 
 ## Now After the Server start the kraken.js
 ```
-Note :- If the kraken does not start in first go then please run the " node kraken.js  " again
+Note :- If the kraken does not start in first go SO, Please Wait because sometimes it's because of [Network issues, Rate limits or overload from Kraken , emporary Kraken downtime , Server-side disconnects]
 
 node kraken.js
 
