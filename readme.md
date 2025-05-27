@@ -31,8 +31,8 @@ This project simulates a real-time trading data pipeline that connects to the Kr
 ### 1. Clone the Repository
 
 ```bash
-git clone <your-repo-url>
-cd real-time-market-pipeline
+git clone https://github.com/meSurajKumar/crypto-market-pipeline
+cd crypto-market-pipeline
 ```
 
 ### 2. Install Dependencies
@@ -93,9 +93,11 @@ node server.js
 
 ## Now After the Server start the kraken.js
 ```
-node kraken.js
-```
+Note :- If the kraken does not start in first go then please run the " node kraken.js  " again
 
+node kraken.js
+
+```
 
 ## 🔎 Expected Kafka Message Format
 ```
