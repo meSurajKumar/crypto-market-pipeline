@@ -16,6 +16,11 @@ This project simulates a real-time trading data pipeline that connects to the Kr
 
 ---
 
+## Video Reference For Any Issue 
+```
+https://drive.google.com/file/d/1EEe70WLsSYbWRoJ8mgd0Ns_ZlAETX77Y/view?usp=sharing
+```
+
 ## 🧩 Tech Stack
 
 - Node.js (JavaScript)
@@ -98,6 +103,7 @@ node server.js
 ## Now After the Server start the kraken.js
 ```
 Note :- If the kraken does not start in first go SO, Please Wait because sometimes it's because of [Network issues, Rate limits or overload from Kraken , emporary Kraken downtime , Server-side disconnects]
+
 
 node kraken.js
 
