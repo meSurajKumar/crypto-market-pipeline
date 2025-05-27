@@ -1,1 +1,0 @@
-{"level":"error","message":"WebSocket error: read ECONNRESET","service":"kraken-kafka-ws-service","stack":"Error: read ECONNRESET\n    at TLSWrap.onStreamRead (node:internal/stream_base_commons:218:20)","timestamp":"2025-05-27 23:08:37"}
